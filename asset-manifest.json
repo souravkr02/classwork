@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/classwork/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/classwork/static/js/main.ebb4f5c0.chunk.js",
+    "main.js.map": "/classwork/static/js/main.ebb4f5c0.chunk.js.map",
+    "runtime-main.js": "/classwork/static/js/runtime-main.cfe6c285.js",
+    "runtime-main.js.map": "/classwork/static/js/runtime-main.cfe6c285.js.map",
+    "static/js/2.c9afff75.chunk.js": "/classwork/static/js/2.c9afff75.chunk.js",
+    "static/js/2.c9afff75.chunk.js.map": "/classwork/static/js/2.c9afff75.chunk.js.map",
+    "index.html": "/classwork/index.html",
+    "precache-manifest.7954cde1566547c1cc0ec545a0d77a89.js": "/classwork/precache-manifest.7954cde1566547c1cc0ec545a0d77a89.js",
+    "service-worker.js": "/classwork/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/classwork/static/css/main.5ecd60fb.chunk.css.map",
+    "static/js/2.c9afff75.chunk.js.LICENSE.txt": "/classwork/static/js/2.c9afff75.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.cfe6c285.js",
+    "static/js/2.c9afff75.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.ebb4f5c0.chunk.js"
+  ]
+}
